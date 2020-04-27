@@ -13,6 +13,8 @@ The Programm Compare the bruttoReturn and nettoReturn functions and if the brutt
 
 How to calculate them with an example: 
 
+
+------------------------------------------------------------------------
 Example: Berechnung Objektrendite
 Mietreinertrag	4440 Euro
 Unterhaltskosten	420 Euro
@@ -32,4 +34,22 @@ Fremdkapitalzins nach Steuern: 1,56%
 
 Fazit: Der Fremdkapitalzins nach Steuern von 1,56% unterschreitet die Objektrendite. So ergibt sich ein positiver Leverage-Effekt. Es macht Sinn, die Eigenkapitalrendite mit Fremdkapital zu erhöhen.
 
+-----------------------------------------------------------------------------------------------
 
+Example: Berechnung Bruttomietrendite
+Kauf einer Eigentumswohnung
+
+200.000 Euro Kaufpreis + 20.000 Euro Nebenkosten = 220.000 Euro Investitionskosten, Nettokaltmiete pro Jahr: 10.000 Euro
+
+100 x 10.000 Euro / 200.000 Euro = 5,0 % Bruttomietrendite
+
+-----------------------------------------------------------------
+
+Example: Berechnung Nettomietrendite
+Kauf einer Eigentumswohnung
+
+Kaufpreis	200.000 Euro
+Kaufnebenkosten	220.000 Euro
+Nettokaltmiete: 10.000 Euro - jährliche Verwaltungskosten: 500 Euro - jährliche Instandhaltungskosten: 700 Euro = Jahresreinertrag: 8.800 Euro
+
+Jahresreinertrag: 8.800 Euro / Investitionskosten: 220 000 Euro x 100 = 4,0 % Nettomietrendite
