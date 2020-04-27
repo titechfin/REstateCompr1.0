@@ -1,0 +1,35 @@
+This programm compare two different kind of Objects. Each one is now in an Array List. 
+Source : https://www.interhyp.de/bauen-kaufen/kapitalanlage/rendite-berechnen-fuer-die-immobilie.html
+
+
+These have the following functions: 
+
+- Brutto Return
+- Netto Return 
+- Object Return
+
+
+The Programm Compare the bruttoReturn and nettoReturn functions and if the brutto or/and nettoReturn are bigger than an other Object.
+
+How to calculate them with an example: 
+
+Example: Berechnung Objektrendite
+Mietreinertrag	4440 Euro
+Unterhaltskosten	420 Euro
+Berechnung der Steuer (ohne Berücksichtigung der Finanzierungskosten):
+
+4440 Euro - 420 Euro - 1500 Euro (Abschreibung) = 2520 Euro
+
+Steuer bei einem Steuersatz von 40% (ohne Berücksichtigung der Finanzierung): 1008 Euro
+
+Berechnung der Objektrendite:
+
+4440 Euro - 420 Euro - 1008 Euro = 3012 Euro
+
+Objektrendite in % des Gesamtkapitals von 100.893 Euro: 2,99 %
+
+Fremdkapitalzins nach Steuern: 1,56%
+
+Fazit: Der Fremdkapitalzins nach Steuern von 1,56% unterschreitet die Objektrendite. So ergibt sich ein positiver Leverage-Effekt. Es macht Sinn, die Eigenkapitalrendite mit Fremdkapital zu erhöhen.
+
+
