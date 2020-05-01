@@ -12,8 +12,50 @@ These have the following functions:
 The Programm Compare the bruttoReturn and nettoReturn functions and if the brutto or/and nettoReturn are bigger than an other Object.
 
 How to calculate them with an example: 
+ENG
+-----------------------------------------------------------------------
+Example: Purchase of property return
+Rental income 4440 euros
+Maintenance costs 420 euros
+Taxation:
 
+4440 euros - 420 euros - 1500 euros (depreciation) = 2520 euros
 
+Tax at a tax rate of 40%: 1008 euros
+
+Calculation of property return:
+
+4440 euros - 420 euros - 1008 euros = 3012 euros
+
+Property return in% of the total capital of EUR 100,893: 2.99%
+
+Borrowing rate after taxes: 1.56%
+
+Conclusion: The debt interest after taxes of 1.56% belongs to the property return. This has ensured a positive leverage effect. It makes sense to increase the return on equity with outside capital.
+
+-------------------------------------------------- -----------------------------------------
+
+Example: Calculation of gross rental yield
+Buying an apartment
+
+200,000 euros purchase price + 20,000 euros additional costs = 220,000 euros investment costs, net rent per year: 10,000 euros
+
+100 x 10,000 euros / 200,000 euros = 5.0% gross rental return
+
+-------------------------------------------------- ---------------
+
+Example: Calculation of net rental yield
+Buying an apartment
+
+Purchase price 200,000 euros
+Incidental purchase costs 220,000 euros
+Net rent: 10,000 euros - administrative costs: 500 euros - relationship costs: 700 euros = annual net income: 8,800 euros
+
+Annual net income: 8,800 euros / investment costs: 220,000 euros x 100 = 4.0% net rental return
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+GER
 ------------------------------------------------------------------------
 Example: Berechnung Objektrendite
 Mietreinertrag	4440 Euro
